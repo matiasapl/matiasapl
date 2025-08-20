@@ -30,7 +30,7 @@ Nacionalidad: [Soy Chileno Vivo en Chile, San Fernando]
 CONSEJO: mysql en windows no distingue entre mayusculas y minusculas en linux si, mariadb en xampp local te pasara las mayusculas a minusculas para mayor compatibilidad diseña bases de datos mysql en minusculas  
 
 
-CONSEJO_2:arma tu servidor lamp en ubuntu server con ssh y ftp incluido y es mas util que xampp pero empieza con xampp   
+CONSEJO_2: arma tu servidor lamp en ubuntu server con ssh y ftp incluido y es mas util que xampp pero empieza con xampp   
 
 
 <!--
