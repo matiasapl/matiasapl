@@ -26,6 +26,8 @@ Email de contacto: [polhweinmatias@gmail.com]
 Numero WhatsApp: [+569 83894202]   
 Nacionalidad: [Soy Chileno Vivo en Chile, San Fernando]   
 
+MI CV: https://drive.google.com/file/d/17KIoMA5zzdBDAdRO8uIQTrWg3NupMbGK/view?usp=sharing   
+
 
 CONSEJO: mysql en windows no distingue entre mayusculas y minusculas en linux si, mariadb en xampp local te pasara las mayusculas a minusculas para mayor compatibilidad diseña bases de datos mysql en minusculas  
 
