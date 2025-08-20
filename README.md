@@ -1,15 +1,15 @@
 ## Hola a Todos 👋
-Soy: [Matias] 
-Me Enfoco En: [Desarrollo web]
+Soy: [Matias]   
+Me Enfoco En: [Desarrollo web]   
 
-Skills: 
-Front End: [Html / Css / Js / React / Vite]
-Back End: [Php / Phpmailer / Composer]
-Bases de datos: [Mysql sql-server]
-Sistemas operativos: [Linux / Windows]
-Analisis y diseño: [Uml / Wireframes]
-Control de versiones: [Git / GitHub]
-Estructura de carpetas: [MVC / Features]
+Skills:    
+Front End: [Html / Css / Js / React / Vite]   
+Back End: [Php / Phpmailer / Composer]   
+Bases de datos: [Mysql sql-server]   
+Sistemas operativos: [Linux / Windows]   
+Analisis y diseño: [Uml / Wireframes]   
+Control de versiones: [Git / GitHub]   
+Estructura de carpetas: [MVC / Features]   
 
 Actualmente Dedico mi tiempo al proyecto: Mi Portfolio 1.0 [Repositorio Privado]
 Mi Proyecto Principal es: La Version privada de el respositorio INVENTARIO_DEMO_1.0_ [UNA WEB APP DE GESTION DE INVENTARIOS]
