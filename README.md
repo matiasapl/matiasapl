@@ -29,11 +29,6 @@ Nacionalidad: [Soy Chileno Vivo en Chile, San Fernando]
 MI CV: https://drive.google.com/file/d/17KIoMA5zzdBDAdRO8uIQTrWg3NupMbGK/view?usp=sharing   
 
 
-CONSEJO: mysql en windows no distingue entre mayusculas y minusculas en linux si, mariadb en xampp local te pasara las mayusculas a minusculas para mayor compatibilidad diseña bases de datos mysql en minusculas  
-
-
-CONSEJO_2: arma tu servidor lamp en ubuntu server con ssh y ftp incluido y es mas util que xampp pero empieza con xampp   
-
 
 <!--
 **matiasapl/matiasapl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
