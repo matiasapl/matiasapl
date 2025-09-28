@@ -19,9 +19,6 @@ y Análisis de Sistemas]
 
 Estudie en: [AIEP, San Fernando]   
 
-Experiencia Laboral: [No Tengo]   
-Trabajo en: [Se Aprecian Ofertas Laborales]   
-
 Email de contacto: [polhweinmatias@gmail.com]    
 Numero WhatsApp: [+569 83894202]   
 Nacionalidad: [Soy Chileno Vivo en Chile, San Fernando]   
