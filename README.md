@@ -23,9 +23,6 @@ Email de contacto: [polhweinmatias@gmail.com]
 Numero WhatsApp: [+569 83894202]   
 Nacionalidad: [Soy Chileno Vivo en Chile, San Fernando]   
 
-MI CV: https://drive.google.com/file/d/17KIoMA5zzdBDAdRO8uIQTrWg3NupMbGK/view?usp=sharing   
-
-
 
 <!--
 **matiasapl/matiasapl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
