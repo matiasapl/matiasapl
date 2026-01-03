@@ -4,15 +4,15 @@ Me Enfoco En: [Desarrollo web]
 
 Skills:    
 Front End: [Html / Css / Js / React / Vite]   
-Back End: [Php / Phpmailer / Composer]   
+Back End: [Php / Phpmailer / Composer / Laravel]   
 Bases de datos: [Mysql sql-server]   
 Sistemas operativos: [Linux / Windows]   
 Analisis y diseño: [Uml / Wireframes]   
 Control de versiones: [Git / GitHub]   
 Estructura de carpetas: [MVC / Features]   
 
-Actualmente Dedico mi tiempo al proyecto: Mi Portfolio 1.0 [Repositorio Privado]   
-Mi Proyecto Principal es: La Version privada de el respositorio INVENTARIO_DEMO_1.0_ [UNA WEB APP DE GESTION DE INVENTARIOS]   
+Mi PortFolio [https://lightslategray-leopard-581983.hostingersite.com/]   
+Mi Proyecto Personal Principal  [https://greenyellow-mongoose-294732.hostingersite.com/products] <- en desarrollo activo se acepta feedback
 
 Estudios: [Técnico de Nivel Superior en Programación]   
 y Análisis de Sistemas]   
@@ -22,6 +22,8 @@ Estudie en: [AIEP, San Fernando]
 Email de contacto: [polhweinmatias@gmail.com]    
 Numero WhatsApp: [+569 83894202]   
 Nacionalidad: [Soy Chileno Vivo en Chile, San Fernando]   
+
+
 
 
 <!--
