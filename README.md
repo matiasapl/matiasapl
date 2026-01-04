@@ -11,8 +11,8 @@ Analisis y diseño: [Uml / Wireframes]
 Control de versiones: [Git / GitHub]   
 Estructura de carpetas: [MVC / Features]   
 
-Mi PortFolio [https://lightslategray-leopard-581983.hostingersite.com/]   
-Mi Proyecto Personal Principal  [https://greenyellow-mongoose-294732.hostingersite.com/products] <- en desarrollo activo se acepta feedback
+Mi PortFolio [https://mapl.dev/]   
+Mi Proyecto Personal Principal  [https://inventario.mapl.dev/] <- en desarrollo activo se acepta feedback
 
 Estudios: [Técnico de Nivel Superior en Programación]   
 y Análisis de Sistemas]   
