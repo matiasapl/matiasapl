@@ -4,7 +4,7 @@
 
 Apasionado por desarrollar aplicaciones web que resuelvan problemas reales mediante automatización, gestión de información y optimización de procesos.
 
-Actualmente trabajo como **Técnico Informático / Desarrollador Interno** en **Embalajes Troya SpA**, donde desarrollo herramientas internas para mejorar la eficiencia operacional.
+Actualmente estoy en busca de trabajo como **Desarrollador / Programador / TI**.
 
 Mi objetivo es seguir creciendo profesionalmente dentro de un equipo de ingeniería de software, participando en proyectos donde pueda aportar valor y continuar aprendiendo.
 
@@ -110,7 +110,7 @@ https://mapl.dev
 - Gestión de infraestructura TI.
 - Administración de activos tecnológicos.
 - Soporte y mejora continua de procesos.
-
+- Desde: 09/2025 Asta: 08/2026. 
 ---
 
 # 🎓 Educación
@@ -126,10 +126,9 @@ AIEP — San Fernando
 Actualmente me encuentro trabajando en:
 
 - 🚀 Plataforma de Gestión de Inventarios
-- 📊 Automatización de procesos empresariales
-- ⚙️ Integraciones mediante N8N
-- 📚 Mejores prácticas en Laravel y arquitectura de software
-- 🔍 Mejora continua de mi portafolio profesional
+- 📊 Actualizar Información en Plataformas Profecionales
+- 🔍 Busqueda de Trabajo y Clientes (Lo que salga Primero)
+- 📚 Flujos de desarrollo Agenticos / IA Agentica Aplicada Al Desarrollo de Software 
 
 ---
 
